@@ -1366,7 +1366,8 @@ def start(message):
 𝗘𝗫𝗣𝗜𝗥𝗘𝗦 𝗜𝗡 ➜ {ig}
 𝗞𝗘𝗬 ➜ <code>{pas}</code>
 		
-𝗨𝗦𝗘 /redeem [𝗞𝗘𝗬]</b>'''
+𝗨𝗦𝗘 /redeem [𝗞𝗘𝗬]
+User Bot : @TomeChk_bot </b>'''
 			bot.reply_to(message,msg,parse_mode="HTML")
 		except Exception as e:
 			print('ERROR : ',e)
