@@ -59,7 +59,7 @@ def start(message):
 			contact_button = types.InlineKeyboardButton(text="✨ 𝘾𝙃𝘼𝙉𝙉𝙀𝙇  ✨", url="https://t.me/lqxqq")
 			keyboard.add(contact_button, ahmed)
 			video_url = f'https://t.me/lqxqq/11'
-			bot.send_video(chat_id=message.chat.id, video=video_url, caption=f'''<b>مرحبا {name}
+			bot.send_video(chat_id=message.chat.id, video=video_url, caption=f'''<b>𝑯𝑬𝑳𝑳𝑶 {name}
 هذا البوت ليس مجاني 
 This bot is not free 
 
@@ -151,7 +151,7 @@ def main(message):
 			contact_button = types.InlineKeyboardButton(text="✨ 𝗢𝗪𝗡𝗘𝗥  ✨", url="https://t.me/FJ0FF")
 			ahmed = types.InlineKeyboardButton(text="✨ 𝘾𝙃𝘼𝙉𝙉𝙀𝙇  ✨", url="https://t.me/lqxqq")
 			keyboard.add(contact_button, ahmed)
-			bot.send_message(chat_id=message.chat.id, text=f'''<b>مرحبا {name}
+			bot.send_message(chat_id=message.chat.id, text=f'''<b>𝑯𝑬𝑳𝑳𝑶 {name}
 هذا البوت ليس مجاني 
 This bot is not free 
 
@@ -186,7 +186,7 @@ User Bot : @TomeChk_bot {BL}</b>
 			ahmed = types.InlineKeyboardButton(text="✨ 𝗢𝗪𝗡𝗘𝗥  ✨", url="https://t.me/FJ0FF")
 			contact_button = types.InlineKeyboardButton(text="✨ 𝘾𝙃𝘼𝙉𝙉𝙀𝙇  ✨", url="https://t.me/FJ0FF")
 			keyboard.add(contact_button, ahmed)
-			bot.send_message(chat_id=message.chat.id, text=f'''<b>مرحبا {nameهذا البوت ليس مجاني 
+			bot.send_message(chat_id=message.chat.id, text=f'''<b>𝑯𝑬𝑳𝑳𝑶 {name} هذا البوت ليس مجاني 
 This bot is not free 
 
 متوفر اشتراكات في بوت فحص كومبو بوابة برنتري اوث
@@ -620,7 +620,7 @@ def respond_to_vbv(message):
 		contact_button = types.InlineKeyboardButton(text="✨ 𝗢𝗪𝗡𝗘𝗥  ✨", url="@FJ0FF")
 		ahmed = types.InlineKeyboardButton(text="✨ 𝘾𝙃𝘼𝙉𝙉𝙀𝙇  ✨", url="https://t.me/lqxqq")
 		keyboard.add(contact_button, ahmed)
-		bot.send_message(chat_id=message.chat.id, text=f'''<b>مرحبا {nameهذا البوت ليس مجاني 
+		bot.send_message(chat_id=message.chat.id, text=f'''<b>𝑯𝑬𝑳𝑳𝑶 {name} هذا البوت ليس مجاني 
 This bot is not free 
 
 متوفر اشتراكات في بوت فحص كومبو بوابة برنتري اوث
@@ -654,7 +654,7 @@ User Bot : @TomeChk_bot {BL}</b>
 		contact_button = types.InlineKeyboardButton(text="✨ 𝗢𝗪𝗡𝗘𝗥  ✨", url="@FJ0FF")
 		ahmed = types.InlineKeyboardButton(text="✨ 𝘾𝙃𝘼𝙉𝙉𝙀𝙇  ✨", url="https://t.me/lqxqq")
 		keyboard.add(contact_button, ahmed)
-		bot.send_message(chat_id=message.chat.id, text=f'''<b>مرحبا {name}
+		bot.send_message(chat_id=message.chat.id, text=f'''<b>𝑯𝑬𝑳𝑳𝑶 {name}
 هذا البوت ليس مجاني 
 This bot is not free 
 
@@ -828,7 +828,7 @@ def respond_to_vbv(message):
 		contact_button = types.InlineKeyboardButton(text="✨ 𝗢𝗪𝗡𝗘𝗥  ✨", url="https://t.me/FJ0FF")
 		ahmed = types.InlineKeyboardButton(text="✨ 𝘾𝙃𝘼𝙉𝙉𝙀𝙇  ✨", url="https://t.me/lqxqq")
 		keyboard.add(contact_button, ahmed)
-		bot.send_message(chat_id=message.chat.id, text=f'''<b>مرحبا {name}
+		bot.send_message(chat_id=message.chat.id, text=f'''<b>𝑯𝑬𝑳𝑳𝑶 {name}
 هذا البوت ليس مجاني 
 This bot is not free 
 
@@ -863,7 +863,7 @@ User Bot : @TomeChk_bot {BL}</b>
 		contact_button = types.InlineKeyboardButton(text="✨ 𝗢𝗪𝗡𝗘𝗥  ✨", url="https://t.me/FJ0FF")
 		ahmed = types.InlineKeyboardButton(text="✨ 𝘾𝙃𝘼𝙉𝙉𝙀𝙇  ✨", url="https://t.me/lqxqq")
 		keyboard.add(contact_button, ahmed)
-		bot.send_message(chat_id=message.chat.id, text=f'''<b>مرحبا {name}
+		bot.send_message(chat_id=message.chat.id, text=f'''<b>𝑯𝑬𝑳𝑳𝑶 {name}
 هذا البوت ليس مجاني 
 This bot is not free 
 
@@ -1033,7 +1033,7 @@ def respond_to_vbv(message):
 		contact_button = types.InlineKeyboardButton(text="✨ 𝗢𝗪𝗡𝗘𝗥  ✨", url="https://t.me/FJ0FF")
 		ahmed = types.InlineKeyboardButton(text="✨ 𝘾𝙃𝘼𝙉𝙉𝙀𝙇  ✨", url="https://t.me/lqxqq")
 		keyboard.add(contact_button, ahmed)
-		bot.send_message(chat_id=message.chat.id, text=f'''<b>مرحبا {name}
+		bot.send_message(chat_id=message.chat.id, text=f'''<b>𝑯𝑬𝑳𝑳𝑶 {name}
 هذا البوت ليس مجاني 
 This bot is not free 
 
@@ -1068,7 +1068,7 @@ User Bot : @TomeChk_bot {BL}</b>
 		contact_button = types.InlineKeyboardButton(text="✨ 𝗢𝗪𝗡𝗘𝗥  ✨", url="https://t.me/FJ0FF")
 		ahmed = types.InlineKeyboardButton(text="✨ 𝘾𝙃𝘼𝙉𝙉𝙀𝙇  ✨", url="https://t.me/lqxqq")
 		keyboard.add(contact_button, ahmed)
-		bot.send_message(chat_id=message.chat.id, text=f'''<b>مرحبا {name}
+		bot.send_message(chat_id=message.chat.id, text=f'''<b>𝑯𝑬𝑳𝑳𝑶 {name}
 هذا البوت ليس مجاني 
 This bot is not free 
 
@@ -1389,7 +1389,7 @@ def respond_to_vbv(message):
 		contact_button = types.InlineKeyboardButton(text="✨ 𝗢𝗪𝗡𝗘𝗥  ✨", url="https://t.me/FJ0FF")
 		ahmed = types.InlineKeyboardButton(text="✨ 𝘾𝙃𝘼𝙉𝙉𝙀𝙇  ✨", url="https://t.me/lqxqq")
 		keyboard.add(contact_button, ahmed)
-		bot.send_message(chat_id=message.chat.id, text=f'''<b>مرحبا {nameهذا البوت ليس مجاني 
+		bot.send_message(chat_id=message.chat.id, text=f'''<b>𝑯𝑬𝑳𝑳𝑶 {name} هذا البوت ليس مجاني 
 This bot is not free 
 
 متوفر اشتراكات في بوت فحص كومبو بوابة برنتري اوث
@@ -1423,7 +1423,7 @@ User Bot : @TomeChk_bot {BL}</b>
 		contact_button = types.InlineKeyboardButton(text="✨ 𝗢𝗪𝗡𝗘𝗥  ✨", url="https://t.me/FJ0FF")
 		ahmed = types.InlineKeyboardButton(text="✨ 𝘾𝙃𝘼𝙉𝙉𝙀𝙇  ✨", url="https://t.me/lqxqq")
 		keyboard.add(contact_button, ahmed)
-		bot.send_message(chat_id=message.chat.id, text=f'''<b>مرحبا {name}
+		bot.send_message(chat_id=message.chat.id, text=f'''<b>𝑯𝑬𝑳𝑳𝑶 {name}
 هذا البوت ليس مجاني 
 This bot is not free 
 
